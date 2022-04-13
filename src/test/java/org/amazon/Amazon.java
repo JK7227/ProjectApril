@@ -66,7 +66,7 @@ public class Amazon extends BaseClass{
 	System.out.println(l2);	
 	System.out.println(Collections.max(l2));
 	System.out.println(Collections.min(l2));
-	System.out.println("Done");
+	System.out.println("Done by RDJ");
 	}
 }			
 
